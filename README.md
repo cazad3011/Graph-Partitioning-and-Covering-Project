@@ -1,5 +1,5 @@
                           
-                     WELCOME TO THE CONVEX PARTITIONING AND MAPPING ALGORITHM WIKI!
+#                                       CONVEX PARTITIONING AND MAPPING ALGORITHM
 
 # 1 Introduction 
 A graph partitioning algorithm divides a problem into two or more subproblems and tries to reduce the interaction between these subproblems. Graph partitioning problem falls under the category of NP-hard problem. In this paper, we are presenting a convex partitioning and mapping algorithm for minimizing cut-size of partitions, for computing and minimizing longest depth of non-convex partitions and for computing longest depth of convex partitions. These problems are NP-hard problems and hence, our convex partitioning and mapping algorithm is a heuristic algorithm to obtain a good solution, or hopefully a near-optimal solution.Convex partitioning and mapping algorithm deals with the task of dividing(partitioning) a given big application graph into two or more parts such that the total number of the edges interconnecting these parts and longest depth of non-convex partitions are minimized while maintaining a given balance constraints among the part size. Convex partitioning and mapping algorithm has many important applications in VLSI design.   
